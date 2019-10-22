@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="winMessage">You Win! :)</string>
+    <string name="loseMessage">You Lose :(</string>
+    <string name="toggleFlag">Flag</string>
+    <string name="toggleGuess">Guess</string>
+    <string name="reset">Reset</string>
+</resources>
